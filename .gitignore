@@ -1,3 +1,4 @@
 .vscode/**/*
 *.dSYM*
 build/three-body
+.DS_Store
