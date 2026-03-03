@@ -2,3 +2,5 @@
 *.dSYM*
 build/three-body
 .DS_Store
+nob
+nob.old
